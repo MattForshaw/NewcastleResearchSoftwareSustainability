@@ -2,7 +2,7 @@
 
 <img src="mainslide.png" alt="An Introduction to Research Software Sustainability and Open Science" />
 
-Slide deck as <a href="nclrssos_110719.pdf">PDF</a>.
+Slide deck as <a href="https://github.com/mattforshaw/NewcastleResearchSoftwareSustainability/blob/master/nclrssos_110719.pdf">PDF</a>.
 
 ## Abstract
 We know that modern scientific research isn’t possible without software, from short, thrown-together temporary scripts and the abundance of complex spreadsheets, through to the huge software enterprises. But how much of it do we understand from a professional services viewpoint? And where does software fit in the growing requirement to share research outputs?

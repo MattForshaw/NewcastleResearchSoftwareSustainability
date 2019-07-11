@@ -11,8 +11,8 @@ This talk will explore the role software plays in supporting world-leading resea
 
 ## Links to resources
 - <a href="data.ncl.ac.uk">data.ncl</a> is a <a href="https://research.ncl.ac.uk/rdm/sharing/datancl/">repository</a> where researchers can document, archive and publish datasets, where there isn’t a funder specified or discipline specific facility in place. The repository will make research data discoverable, which will promote reuse, track impact and potentially lead to new collaborations. Data deposited will be preserved for at least 10 years and in most cases openly accessed. 
+- <a href="https://www.incf.org/activities/standards-and-best-practices/what-is-fair">FAIR Principles</a>: The FAIR principles are a set of community-developed guidelines to ensure that data or any digital object are Findable, Accessible, Interoperable and Reusable. The FAIR principles specifically emphasize enhancing the ability of machines to automatically find and use data or any digital object, and support its reuse by individuals. Standards for the description, interoperability, citation etc. are at the core of these principles.
 - <a href="https://carpentries.org/">Carpentries</a> - free training resources in version control, command-line scripting and other topics relating to reproducible research.
-
 - <a href="https://the-turing-way.netlify.com/introduction/introduction">The Turing Way</a> - A handbook for reproducible data science
 
 ## Acknowledgements 

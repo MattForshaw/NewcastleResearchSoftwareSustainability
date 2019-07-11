@@ -10,6 +10,7 @@ We know that modern scientific research isn’t possible without software, from 
 This talk will explore the role software plays in supporting world-leading research, and as itself a first-class research output. We will introduce the principles of reproducible research and open science, and explore how we can support the research software development process to maximise the impact and long-term sustainability of research. This non-technical talk is ideally suited to teams who support research, e.g. in preparing grant applications, providing technical support for researchers, and those capturing research impact.
 
 ## Links to resources
+- <a href="data.ncl.ac.uk">data.ncl</a> is a <a href="https://research.ncl.ac.uk/rdm/sharing/datancl/">repository</a> where researchers can document, archive and publish datasets, where there isn’t a funder specified or discipline specific facility in place. The repository will make research data discoverable, which will promote reuse, track impact and potentially lead to new collaborations. Data deposited will be preserved for at least 10 years and in most cases openly accessed. 
 - <a href="https://carpentries.org/">Carpentries</a> - free training resources in version control, command-line scripting and other topics relating to reproducible research.
 
 - <a href="https://the-turing-way.netlify.com/introduction/introduction">The Turing Way</a> - A handbook for reproducible data science
